@@ -1,5 +1,5 @@
 _repo: Definitions-Essays-in-Contemporary-Criticism-First-Series_6106
-_version: 0.2.0
+_version: 0.2.1
 covers:
 - cover_type: generated
   image_path: cover.png
@@ -27,5 +27,6 @@ subjects:
 - !lcsh 'Criticism'
 - !lcsh 'American literature -- 20th century -- History and criticism'
 - !lcsh 'English fiction -- History and criticism'
+- GITenberg
 title: 'Definitions: Essays in Contemporary Criticism [First Series]'
 url: http://www.gutenberg.org/ebooks/6106
